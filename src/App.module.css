@@ -1,0 +1,11 @@
+.box {
+  display: inline-block;
+  min-height: 100px;
+  min-width: 100px;
+  align-items: center;
+  padding: 15px;
+  margin-left: auto;
+  position: absolute;
+  top: 15px;
+  left: 30px;
+}
